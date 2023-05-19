@@ -1,0 +1,19 @@
+.d-f{
+    justify-content: center !important;
+    align-items: center !important;
+}
+.container *{
+    margin: 2%;
+}
+.li-style{
+    text-decoration: none;
+    list-style: none;
+    border: solid 1px;
+    padding: 2%;
+    border-radius: 10px;
+}
+.li-style:hover{
+    background-color: sandybrown;
+    border: none;
+    transition: .25s;
+}
